@@ -13,8 +13,12 @@
 | **Координатор проекта** | [Екатерина Закиева (@Zakieva)](https://github.com/Zakieva) — подбор аналитика, постановка задачи, координация, публикация каталога |
 | **Аналитик** | [@mrromast](https://github.com/mrromast) |
 | **Оригинальный проект** | [GitHub Project #6](https://github.com/users/mrromast/projects/6) |
-| **Исходные issues** | [mrromast/-](https://github.com/mrromast/-/issues) |
+<!-- sync-meta-start -->
+| **Последняя синхронизация** | 2026-05-25 03:19 (UTC) |
 | **Технологий в каталоге** | 18 |
+| **Источник данных** | Авто-синхронизация из [mrromast/- issues](https://github.com/mrromast/-/issues) |
+<!-- sync-meta-end -->
+| **Исходные issues** | [mrromast/-](https://github.com/mrromast/-/issues) |
 
 ---
 
@@ -49,6 +53,8 @@
 
 Полный список технологий: [technologies/README.md](technologies/README.md)
 
+Каталог **обновляется автоматически** ([GitHub Action](.github/workflows/sync-issues.yml)): раз в сутки и по кнопке *Run workflow* подтягиваются изменения из issues [@mrromast](https://github.com/mrromast). Это **не форк**, а зеркало-каталог в вашем репозитории [@Zakieva/chinese-tech-transfer-oil-gas](https://github.com/Zakieva/chinese-tech-transfer-oil-gas).
+
 ---
 
 ## Команда / Team
@@ -58,7 +64,7 @@
 | **Координатор проекта** | [@Zakieva](https://github.com/Zakieva) (Екатерина Закиева) | Организация проекта по поиску технологий: подбор аналитика, согласование задачи, координация, публикация каталога (18+ карточек) |
 | **Analyst** | [@mrromast](https://github.com/mrromast) | Анализ технологий, подготовка карточек (issues) |
 
-> Форк каталога: [Zakieva/chinese-tech-transfer-oil-gas](https://github.com/Zakieva/chinese-tech-transfer-oil-gas)  
+> Публичный каталог: [Zakieva/chinese-tech-transfer-oil-gas](https://github.com/Zakieva/chinese-tech-transfer-oil-gas) (авто-синхронизация)  
 > Оригинальная доска: [mrromast — Project #6](https://github.com/users/mrromast/projects/6)
 
 ---
