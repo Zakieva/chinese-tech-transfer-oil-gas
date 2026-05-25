@@ -51,10 +51,15 @@
 
 ---
 
-## Команда
+## Команда / Team
 
-- **@Zakieva** — координатор проекта, подбор специалиста, организация работы
-- **@mrromast** — аналитик, подготовка карточек технологий
+| Роль | Участник | Зона ответственности |
+|------|----------|----------------------|
+| **Coordinator** | [@Zakieva](https://github.com/Zakieva) (Екатерина Закиева) | Подбор специалиста, организация проекта, координация |
+| **Analyst** | [@mrromast](https://github.com/mrromast) | Анализ технологий, подготовка карточек (issues) |
+
+> Форк каталога: [Zakieva/chinese-tech-transfer-oil-gas](https://github.com/Zakieva/chinese-tech-transfer-oil-gas)  
+> Оригинальная доска: [mrromast — Project #6](https://github.com/users/mrromast/projects/6)
 
 ---
 
