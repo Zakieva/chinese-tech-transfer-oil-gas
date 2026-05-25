@@ -143,9 +143,10 @@ def update_main_readme(count: int, synced_at: str) -> None:
     text = README_PATH.read_text(encoding="utf-8")
     block = (
         f"{SYNC_START}\n"
-        f"| **Последняя синхронизация** | {synced_at} (UTC) |\n"
-        f"| **Технологий в каталоге** | {count} |\n"
-        f"| **Источник данных** | Авто-синхронизация из [mrromast/- issues](https://github.com/mrromast/-/issues) |\n"
+        f"| Показатель | Значение |\n"
+        f"|------------|----------|\n"
+        f"| Последняя синхронизация | {synced_at} UTC |\n"
+        f"| Технологий в каталоге | {count} |\n"
         f"{SYNC_END}"
     )
     pattern = re.compile(
@@ -155,15 +156,9 @@ def update_main_readme(count: int, synced_at: str) -> None:
     if pattern.search(text):
         text = pattern.sub(block, text)
     else:
-        needle = "| **Исходные issues** |"
-        if needle in text:
-            text = text.replace(
-                needle,
-                f"{block}\n| **Исходные issues** |",
-                1,
-            )
-        else:
-            text += f"\n\n{block}\n"
+        needle = "<!-- sync-meta-start -->"
+        if needle not in text:
+            text += f"\n\n## Статус каталога\n\n{block}\n"
     README_PATH.write_text(text, encoding="utf-8")
 
 
