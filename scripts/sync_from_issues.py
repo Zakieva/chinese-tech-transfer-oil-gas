@@ -123,7 +123,7 @@ def render_catalog_readme(entries: list[dict]) -> str:
     lines = [
         "# Каталог технологий",
         "",
-        "_Файл обновляется автоматически из [mrromast/- issues](https://github.com/mrromast/-/issues)._",
+        "_Я автоматически обновляю этот каталог из [issues @mrromast](https://github.com/mrromast/-/issues)._",
         "",
         "| № | Технология | Статус | Файл |",
         "|---:|---|---|---|",
@@ -145,7 +145,7 @@ def update_main_readme(count: int, synced_at: str) -> None:
         f"{SYNC_START}\n"
         f"| **Последняя синхронизация** | {synced_at} (UTC) |\n"
         f"| **Технологий в каталоге** | {count} |\n"
-        f"| **Источник данных** | Авто-синхронизация из [mrromast/- issues](https://github.com/mrromast/-/issues) |\n"
+        f"| **Источник данных** | Я автоматически подтягиваю данные из [mrromast/- issues](https://github.com/mrromast/-/issues) |\n"
         f"{SYNC_END}"
     )
     pattern = re.compile(
