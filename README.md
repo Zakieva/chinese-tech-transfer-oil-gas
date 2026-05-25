@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| **Координатор** | [Екатерина Закиева (@Zakieva)](https://github.com/Zakieva) |
+| **Координатор проекта** | [Екатерина Закиева (@Zakieva)](https://github.com/Zakieva) — подбор аналитика, постановка задачи, координация, публикация каталога |
 | **Аналитик** | [@mrromast](https://github.com/mrromast) |
 | **Оригинальный проект** | [GitHub Project #6](https://github.com/users/mrromast/projects/6) |
 | **Исходные issues** | [mrromast/-](https://github.com/mrromast/-/issues) |
@@ -55,7 +55,7 @@
 
 | Роль | Участник | Зона ответственности |
 |------|----------|----------------------|
-| **Coordinator** | [@Zakieva](https://github.com/Zakieva) (Екатерина Закиева) | Подбор специалиста, организация проекта, координация |
+| **Координатор проекта** | [@Zakieva](https://github.com/Zakieva) (Екатерина Закиева) | Организация проекта по поиску технологий: подбор аналитика, согласование задачи, координация, публикация каталога (18+ карточек) |
 | **Analyst** | [@mrromast](https://github.com/mrromast) | Анализ технологий, подготовка карточек (issues) |
 
 > Форк каталога: [Zakieva/chinese-tech-transfer-oil-gas](https://github.com/Zakieva/chinese-tech-transfer-oil-gas)  
