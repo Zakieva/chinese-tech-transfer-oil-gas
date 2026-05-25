@@ -1,6 +1,6 @@
 ﻿# Каталог технологий
 
-_Я автоматически обновляю этот каталог из [issues @mrromast](https://github.com/mrromast/-/issues)._
+_Каталог обновляется автоматически из [issues @mrromast](https://github.com/mrromast/-/issues)._
 
 | № | Технология | Статус | Файл |
 |---:|---|---|---|

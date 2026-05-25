@@ -2,7 +2,8 @@
 
 **Chinese Tech Transfer for Oil & Gas Industry**
 
-Я, [Екатерина Закиева (@Zakieva)](https://github.com/Zakieva), веду этот проект: собираю и публикую каталог китайских технологий для нефтегаза с анализом применимости для российского рынка.
+Каталог китайских технологий для нефтегаза с анализом применимости для российского рынка.  
+**Координатор:** [Екатерина Закиева (@Zakieva)](https://github.com/Zakieva).
 
 ---
 
@@ -10,23 +11,23 @@
 
 | | |
 |---|---|
-| **Я, координатор** | Подбираю аналитика, ставлю задачу, координирую работу и публикую каталог |
+| **Координатор** | [Екатерина Закиева (@Zakieva)](https://github.com/Zakieva) — подбор аналитика, постановка задачи, координация, публикация каталога |
 | **Аналитик** | [@mrromast](https://github.com/mrromast) — готовит карточки технологий |
-| **Его доска** | [GitHub Project #6](https://github.com/users/mrromast/projects/6) |
+| **Доска аналитика** | [GitHub Project #6](https://github.com/users/mrromast/projects/6) |
 <!-- sync-meta-start -->
 | **Последняя синхронизация** | — |
 | **Технологий в каталоге** | 18 |
-| **Источник данных** | Я автоматически подтягиваю данные из [mrromast/- issues](https://github.com/mrromast/-/issues) |
+| **Источник данных** | Авто-синхронизация из [mrromast/- issues](https://github.com/mrromast/-/issues) |
 <!-- sync-meta-end -->
 | **Исходные issues** | [mrromast/-](https://github.com/mrromast/-/issues) |
 
 ---
 
-## Зачем я это делаю
+## Задача проекта
 
-Мне нужно было систематизировать передовые китайские технологии для нефтегазовой отрасли и понять, что из них применимо в России (в т.ч. для Газпрома, нефтесервиса, строительства магистралей).
+Систематизировать передовые китайские технологии для нефтегазовой отрасли и оценить применимость для российских компаний (в т.ч. Газпром, нефтесервис, строительство магистралей).
 
-В каждой карточке я собираю:
+В каждой карточке:
 
 - оригинальное китайское название технологии;
 - описание принципа работы;
@@ -34,7 +35,7 @@
 - вывод о применимости для российской нефтегазовой отрасли;
 - ссылки на источники.
 
-Тексты карточек пишет аналитик; я организую процесс и веду публичный каталог.
+Тексты карточек готовит аналитик; координатор организует процесс и ведёт публичный каталог.
 
 ---
 
@@ -55,29 +56,29 @@
 
 Полный список: [technologies/README.md](technologies/README.md)
 
-Я **автоматически обновляю** каталог ([GitHub Action](.github/workflows/sync-issues.yml)): раз в сутки и по кнопке *Run workflow* подтягиваю изменения из issues [@mrromast](https://github.com/mrromast). Это **не форк**, а моё зеркало-каталог в репозитории [@Zakieva/chinese-tech-transfer-oil-gas](https://github.com/Zakieva/chinese-tech-transfer-oil-gas).
+Каталог **обновляется автоматически** ([GitHub Action](.github/workflows/sync-issues.yml)): раз в сутки и по кнопке *Run workflow* подтягиваются изменения из issues [@mrromast](https://github.com/mrromast). Это **не форк**, а зеркало-каталог в репозитории [@Zakieva/chinese-tech-transfer-oil-gas](https://github.com/Zakieva/chinese-tech-transfer-oil-gas).
 
 ---
 
 ## Команда
 
-| Роль | Кто | Что делает |
-|------|-----|------------|
-| **Координатор** | Я, [@Zakieva](https://github.com/Zakieva) | Организую поиск технологий: подбираю аналитика, согласую задачу, координирую, публикую каталог (18+ карточек) |
-| **Аналитик** | [@mrromast](https://github.com/mrromast) | Исследует технологии и пишет карточки в issues |
+| Роль | Участник | Зона ответственности |
+|------|----------|----------------------|
+| **Координатор** | [@Zakieva](https://github.com/Zakieva) (Екатерина Закиева) | Организовала поиск технологий: подобрала аналитика, согласовала задачу, координирует, публикует каталог (18+ карточек) |
+| **Аналитик** | [@mrromast](https://github.com/mrromast) | Исследует технологии, готовит карточки в issues |
 
-> Мой каталог: [Zakieva/chinese-tech-transfer-oil-gas](https://github.com/Zakieva/chinese-tech-transfer-oil-gas) (авто-синхронизация)  
-> Его доска: [mrromast — Project #6](https://github.com/users/mrromast/projects/6)
+> Публичный каталог: [Zakieva/chinese-tech-transfer-oil-gas](https://github.com/Zakieva/chinese-tech-transfer-oil-gas) (авто-синхронизация)  
+> Доска аналитика: [mrromast — Project #6](https://github.com/users/mrromast/projects/6)
 
 ---
 
-## Где ещё меня найти
+## Связанные профили
 
-- [Мой профиль GitHub](https://github.com/Zakieva) — HR, бизнес-аналитик, SENATOROVAI
-- [BUSINESS-ANALYST](https://github.com/Zakieva/BUSINESS-ANALYST) — мой курс по бизнес-аналитике
+- [Zakieva](https://github.com/Zakieva) — HR, бизнес-аналитик, SENATOROVAI
+- [BUSINESS-ANALYST](https://github.com/Zakieva/BUSINESS-ANALYST) — курс бизнес-анализа
 
 ---
 
 ## Лицензия
 
-Я публикую материалы в образовательных и аналитических целях. Источники указаны в каждой карточке.
+Материалы опубликованы в образовательных и аналитических целях. Источники указаны в каждой карточке.
